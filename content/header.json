@@ -1,0 +1,21 @@
+{
+    "title": "devi triano",
+    "description":
+      "this is my new world.",
+    "social": {
+      "ig": {
+        "url": "https://instagram.com/detroyfx",
+        "title": "fareedsurya"
+      },
+      "TikTok": {
+        "url": "https://www.tiktok.com/@menyonnn__?lang=id-ID",
+        "title": "devitriana"
+      },
+      "yt": {
+        "url": "https://www.youtube.com/channel/UCnvQ-f17cZduon6idsEaDOg",
+        "title": "devi triana"
+      }
+    },
+    "imageProfile":
+      "https://raw.githubusercontent.com/Devitrianasuci/tekweb2022/master/images/dep.png"
+  }
