@@ -1,29 +1,8 @@
-/*style.css*/
-.cover {
-    position: relative;
-    background-position: center;
-    background-size: cover;
-    height: 500px;
-  }
-  .cover .masking {
-    position: absolute;
-    width: 100%;
-    bottom: 0;
-    top: 0;
-    background-color: black;
-    opacity: 0.5;
-    z-index: 0;
-  }
-  .cover .credit {
-    position: absolute;
-    left: 10px;
-    bottom: 10px;
-  }
-  .cover .social a {
-    color: white;
-  }
-  .cover img{
-    width: 300px;
-  }
-
-  
+.skillBar {
+  background: #1D2B64;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #F8CDDA, #1D2B64);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #F8CDDA, #1D2B64);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
