@@ -5,7 +5,7 @@
         "judul": "artikel1",
         "deskripsi": "isi deskripsi",
         "image": "./images/python1.jpg",
-        "link": ""
+        "link": "artikel_1.md"
 
     },
     {
@@ -13,14 +13,14 @@
         "judul": "artikel2",
         "deskripsi": "isi deskripsi",
         "image": "./images/js1.jpg",
-        "link": ""
+        "link": "artikel_2.md"
     },
     {
         "id": 0,
         "judul": "artikel3",
         "deskripsi": "isi deskripsi",
         "image": "./images/css1.jpg",
-        "link": ""
+        "link": "artikel_3.md"
     }
 ]
 }
