@@ -1,0 +1,26 @@
+{
+    "artikel": 
+    [{
+        "id": 0,
+        "judul": "artikel1",
+        "deskripsi": "isi deskripsi",
+        "image": "./images/python1.jpg",
+        "link": ""
+
+    },
+    {
+        "id": 0,
+        "judul": "artikel2",
+        "deskripsi": "isi deskripsi",
+        "image": "./images/js1.jpg",
+        "link": ""
+    },
+    {
+        "id": 0,
+        "judul": "artikel3",
+        "deskripsi": "isi deskripsi",
+        "image": "./images/css1.jpg",
+        "link": ""
+    }
+]
+}
