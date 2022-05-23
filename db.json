@@ -4,7 +4,7 @@
         "id": 0,
         "judul": "artikel1",
         "deskripsi": "isi deskripsi",
-        "image": "./images/python1.jpg",
+        "image": "./images/art01.png",
         "link": "artikel_1.md"
 
     },
@@ -12,14 +12,14 @@
         "id": 0,
         "judul": "artikel2",
         "deskripsi": "isi deskripsi",
-        "image": "./images/js1.jpg",
+        "image": "./images/art02.jpg",
         "link": "artikel_2.md"
     },
     {
         "id": 0,
         "judul": "artikel3",
         "deskripsi": "isi deskripsi",
-        "image": "./images/css1.jpg",
+        "image": "./images/art3.jpg",
         "link": "artikel_3.md"
     }
 ]
