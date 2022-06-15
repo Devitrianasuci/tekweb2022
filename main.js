@@ -14,7 +14,7 @@ Vue.createApp({
           Tiktok : {
             id : 1,
             username : "menyon",
-            link : "https://www.tiktok.com/@menyonnn__?lang=id-ID"
+            link : "https://www.tiktok.com/@detroyyy_?is_from_webapp=1&sender_device=pc"
           },
           youtube : {
             id : 2,
