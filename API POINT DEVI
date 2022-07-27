@@ -365,7 +365,6 @@ classDiagram
         + judul: string
         + ket: string
         + gambar: string
-        + foto: string
         + url: string
         + des: string
         + getAllPortofolio()
